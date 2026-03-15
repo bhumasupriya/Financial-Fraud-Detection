@@ -78,3 +78,5 @@ python app.py
 python stream_data.py
 5️⃣ Launch Dashboard
 streamlit run dashboard.py
+
+Download the dataset from the KAGGLE Website 
